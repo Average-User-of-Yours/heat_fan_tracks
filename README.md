@@ -21,14 +21,14 @@ heat-fan-tracks/
 │
 ├─ tracks/
 │   ├─ monaco_fan_track.pdf
-│   ├─ brasil_fan_track.pdf
+│   └─ brasil_fan_track.pdf
 |
 ├─ track_cards/
-|   ├─ monaco_brasil_cards.pdf
+|   └─ monaco_brasil_cards.pdf
 │
 ├─ preview/
 │   ├─ monaco_preview.png
-│   ├─ spa_preview.png
+│   └─ spa_preview.png
 │
 └─ README.md
 ```

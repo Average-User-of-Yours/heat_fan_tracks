@@ -36,6 +36,5 @@ heat-fan-tracks/
 │   ├─ monaco_preview.jpg
 │   └─ monaco_brasil_cards_preview.jpg
 │
-├─ README.md
-└─ download.md
+└─ README.md
 ```

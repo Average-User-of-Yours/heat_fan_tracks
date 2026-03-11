@@ -11,6 +11,7 @@ Unofficial fan-made tracks for the board game *Heat: Pedal to the Metal*.
 ![Brazil Track](preview/brasil_preview.jpg)
 
 - Monaco GP (featuring tunnels)
+ DOWNLOAD HERE: https://github.com/Average-User-of-Yours/heat_fan_tracks/releases/download/v1.0/monaco_fan_map.pdf
 
 ![Monaco Track](preview/monaco_preview.jpg)
 

@@ -28,7 +28,7 @@ heat-fan-tracks/
 │
 ├─ preview/
 │   ├─ monaco_preview.png
-│   └─ spa_preview.png
+│   └─ brasil_preview.png
 │
 └─ README.md
 ```

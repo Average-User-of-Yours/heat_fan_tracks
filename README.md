@@ -19,16 +19,10 @@ Heat: Pedal to the Metal is published by Days of Wonder / Asmodee.
 ```text
 heat-fan-tracks/
 │
-├─ tracks/
-│   ├─ monaco_fan_track.pdf
-│   └─ brasil_fan_track.pdf
-|
-├─ track_cards/
-|   └─ monaco_brasil_cards.pdf
-│
 ├─ preview/
-│   ├─ monaco_preview.png
-│   └─ brasil_preview.png
+│   ├─ brazil_preview.png
+│   └─ monaco_preview.png
 │
-└─ README.md
+├─ README.md
+└─ download.md
 ```

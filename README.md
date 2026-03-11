@@ -5,8 +5,8 @@
 Unofficial fan-made tracks for the board game *Heat: Pedal to the Metal*.
 
 ## Tracks
-- Brazil GP
-- Monaco GP
+- Brazil GP (featuring rain puddles)
+- Monaco GP (featuring tunnels)
 
 ## Printing
 Print at 100% scale on A4 paper.

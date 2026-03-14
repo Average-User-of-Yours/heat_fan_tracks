@@ -4,6 +4,8 @@
 
 Unofficial fan-made tracks for the board game *Heat: Pedal to the Metal*.
 
+They are playtested with both Legends and human players (up to 12 cars).
+
 ## Tracks
 - Brazil GP (featuring rain puddles)
 - DOWNLOAD HERE: https://github.com/Average-User-of-Yours/heat_fan_tracks/releases/download/v1.0/brasil_fan_map.pdf
